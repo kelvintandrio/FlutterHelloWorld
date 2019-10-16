@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'This is make demo Hello World Version 1'),
+      home: MyHomePage(title: 'Hello World Version 1'),
     );
   }
 }
